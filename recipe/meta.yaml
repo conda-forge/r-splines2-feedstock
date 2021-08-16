@@ -1,4 +1,4 @@
-{% set version = "0.4.3" %}
+{% set version = "0.4.4" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/splines2_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/splines2/splines2_{{ version }}.tar.gz
-  sha256: 91d03bb00d75be0e202fe7eef9055330b86df75a570e1784a2596ad54c904ef2
+  sha256: 3e331a5760e3b7b58e8152849a7306ffa276b91025f4f63f748b964b492a53a3
 
 build:
   merge_build_host: true  # [win]
