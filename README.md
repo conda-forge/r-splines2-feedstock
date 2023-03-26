@@ -1,11 +1,22 @@
+About r-splines2-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-splines2-feedstock/blob/main/LICENSE.txt)
+
 About r-splines2
-================
+----------------
 
 Home: https://github.com/wenjie2wang/splines2
 
 Package license: GPL-3.0-or-later
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-splines2-feedstock/blob/main/LICENSE.txt)
+Summary: Constructs B-splines and its integral, M-splines and its integral (I-splines), convex splines (C-splines), generalized Bernstein polynomials, and their derivatives. It also contains a C++ head-only library integrated with Rcpp. See De Boor (1978) <doi:10.1002/zamm.19800600129>, Ramsay (1988) <doi:10.1214/ss/1177012761>, and Meyer (2008) <doi:10.1214/08-AOAS167> for more information about the spline basis.
+About r-splines2
+----------------
+
+Home: https://github.com/wenjie2wang/splines2
+
+Package license: GPL-3.0-or-later
 
 Summary: Constructs B-splines and its integral, M-splines and its integral (I-splines), convex splines (C-splines), generalized Bernstein polynomials, and their derivatives. It also contains a C++ head-only library integrated with Rcpp. See De Boor (1978) <doi:10.1002/zamm.19800600129>, Ramsay (1988) <doi:10.1214/ss/1177012761>, and Meyer (2008) <doi:10.1214/08-AOAS167> for more information about the spline basis.
 
